@@ -1,26 +1,21 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Andy Nguyen",
     "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
+    "picture": "https://avatars.githubusercontent.com/u/175671876?s=400&u=c20301313136f77446ee7fc526e38a160fb3abab&v=4",
+    "email": "andynguyen7652@gmail.com",
+    "phone": "808-721-1132",
     "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Security Science in the Department of Information and Computer Sciences at the University of Hawaii at Manoa. I expect to graduate in Spring, 2026.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "andy3-git", "url": "http://github.com/andy3-git" },
+      { "network": "linkedin", "username": "Andy Nguyen", "url": "https://www.linkedin.com/in/andy-nguyen-0881b8326/" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cyber-Security" },
+    { "name": "Artificial Intelligence" },
   ],
   "skills": [
     {
@@ -35,9 +30,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Security Science (expected Spring, 2026)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-08-26",
       "endDate": "Present",
       "courses": [
       ]
@@ -52,8 +47,8 @@
       "endDate": "Present",
       "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
+        ""
       ]
     },
     {
