@@ -9,7 +9,8 @@ labels:
   -  Software Engineering, Typescript
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="[../img/difficulty/degree_difficulty.jpg](https://www.gerbenvanadrichem.com/wp-content/uploads/2023/05/Typescript_logo.png)">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript Logo" width="200">
+
 
 ## Impressions About Typescript
 
@@ -51,5 +52,6 @@ Furthermore, I went on to say that this type of learning is more engaging than p
 memorization unlike other forms of learning. Though I’m not gonna lie, I’ll probably grow a couple white hairs by the time that this course is over.
 
 ## Image Credit
+A.I. such as ChatGPT was used to help display image, other than that all writing is original.
 
-https://www.gerbenvanadrichem.com/quality-assurance/property-based-testing-with-fast-check-in-javascript-typescript/
+https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png
