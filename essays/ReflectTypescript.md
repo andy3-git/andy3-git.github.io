@@ -6,8 +6,10 @@ title: "Stumbling With TypeScript and WODS"
 date: 2025-06-05
 published: true
 labels:
-  -  Software Enginerring, Typescript
+  -  Software Engineering, Typescript
 ---
+
+<img width="200px" class="rounded float-start pe-4" src="[../img/difficulty/degree_difficulty.jpg](https://www.gerbenvanadrichem.com/wp-content/uploads/2023/05/Typescript_logo.png)">
 
 ## Impressions About Typescript
 
@@ -29,7 +31,7 @@ I find it hard for me to remember the nooks and crannies of syntax for any langu
 
 I had previously done a WOD last year in spring and it was intense due to points being at stake and it was live in the classroom. 
 
-At the time of writing this in Summer of 2025, WODs start on Friday at 10:30 A.M. and end at 11:00 A.M giving a time frame of 30 minutes to either complete the problem or cry and fail in that order. 
+At the time of writing this in Summer of 2025, WODs start on Friday at 10:30 A.M. and end at 11:45 A.M giving a time frame of 75 minutes to either complete the problem or cry and fail in that order. 
 
 ## Impressions About Type of Learning
 
@@ -48,3 +50,6 @@ I then stated that WODS while stressful and punishing if failed can make you thi
 Furthermore, I went on to say that this type of learning is more engaging than presentation slides as it forces you to think quickly and on your feet whilst allowing access to all tools at disposal such as open notes or A.I, relying less on 
 memorization unlike other forms of learning. Though I’m not gonna lie, I’ll probably grow a couple white hairs by the time that this course is over.
 
+## Image Credit
+
+https://www.gerbenvanadrichem.com/quality-assurance/property-based-testing-with-fast-check-in-javascript-typescript/
