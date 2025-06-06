@@ -54,4 +54,4 @@ memorization unlike other forms of learning. Though I’m not gonna lie, I’ll 
 ## Image Credit
 A.I. such as ChatGPT was used to help display image, other than that all writing is original.
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png
+TypeScript Logo from Wikimedia Commons.
