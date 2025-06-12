@@ -24,7 +24,7 @@ and 26 represent the amount of letters in the alphabet.
 
 ## Code
 
-Down Below is some code relating to the project
+The code down below uses two Python dictionaries in order to covert individual letters of a string into either its numerical form or alphabet form
 
 ```python
 def intToChar (argument):
@@ -36,4 +36,62 @@ def charToInt (argument):
     Dict1 = {'A': 1, 'B': 2, 'C': 3, 'D': 4, 'E': 5, 'F': 6, 'G': 7, 'H': 8, 'I': 9, 'J': 10, 'K': 11, 'L': 12, 'M': 13, 
                 'N': 14, 'O': 15, 'P': 16, 'Q': 17, 'R': 18, 'S': 19, 'T': 20, 'U': 21, 'V': 22, 'W': 23, 'X': 24, 'Y': 25, 'Z': 26 }
     return Dict1.get(argument, argument)
+```
+
+These python definition utilizes the formula mentioned above to encrypt plaintext
+It runs on a for loop that detects whether or not there is empty space.
+If there it is no empty space, then the character goes through the charToInt dictionary that converts it an Integer
+Else it goes through caesar's formula then joins the output.
+
+definition shiftCipherDE3 is the same except the formula uses a negative sign instead of the positive sign
+
+
+```python
+def shiftCipherEN3(encrypt, K):
+    output = ""
+    for i in encrypt:
+        if i != ' ':
+            P = charToInt(i.upper())
+            if P == i:
+                output += output.join(i)
+            else:
+                shiftCipher = (P + K) % 26
+                if shiftCipher == 0:
+                    output += output.join(intToChar(P + K))
+                else:
+                    output += output.join(intToChar(shiftCipher))
+        else:
+            output += output.join(' ')
+    return output
+
+def shiftCipherDE3(decrypt, K):
+    output = ""
+    for i in decrypt:
+        if i != ' ':
+            P = charToInt(i.upper())
+            if P == i:
+                output += output.join(i)
+            else:
+                shiftCipher = (P - K) % 26
+                if shiftCipher == 0:
+                    output += output.join(intToChar(P + K))
+                else:
+                    output += output.join(intToChar(shiftCipher))
+        else:
+            output += output.join(' ')
+    return output
+```
+
+Here are some test cases to try out in Python
+
+```Python
+message1 = "Meet you in the par"
+message2 = "I am reading a book on the history of glue. I just can not seem to put it down"
+message3 = "I like ths class"
+message4 = "Why do scientists not trust atoms? Because they make up everything."
+
+print(shiftCipherEN3(message1, 3))
+print(shiftCipherEN3(message2, 3))
+print(shiftCipherEN3(message3, 3))
+print(shiftCipherEN3(message4, 9))
 ```
