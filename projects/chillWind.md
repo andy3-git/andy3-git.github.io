@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: <img src="img/wind_chill.png" alt="Wind Chill Chart" width="200">
+image: img/WindChillChart.jpg
 title: "Cotton"
 date: 2014
 published: true
