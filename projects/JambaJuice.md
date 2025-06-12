@@ -25,7 +25,7 @@ Within this class, I have four parameters with various datatypes.
 All objects within the class are then availible for use via a constructor.
 The describe function just prints all information regarding an menuItem to console.
 
-<pre>
+```typescript
 class MenuItem {
   name: string;
   ingredients: string[];
@@ -51,11 +51,11 @@ class MenuItem {
     console.log("Calories: ", this.calories);
   }
 }
-  </pre>
+```
 
 We can create an item with the following...
 
-<pre>
+```typescript
   // Create New MenuItems here 
 const PapayaSunrise = new MenuItem(
   "Papaya Sunrise",
@@ -63,14 +63,14 @@ const PapayaSunrise = new MenuItem(
  {small: 5.15, medium: 5.75, large: 6.55}, 
  {small: 190, medium: 280, large: 330}
  )
-</pre>
+```
 
 To push new menuItems into the menu.
 We create a menu class.
 Then we use the command addMenuItem(item: MenuItem); 
 This allows us to push our newly created object for later use.
 
-<pre>
+```typescript
 class Menu {
   private items: MenuItem[] = [];
 
@@ -89,6 +89,6 @@ class Menu {
 }
 
 const menu = new Menu();
-</pre>
+```
 
 [Jamba Juice TypeScript Here](https://tinyurl.com/yc84a74x)
