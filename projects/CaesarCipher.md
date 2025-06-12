@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CaesarCipher.png
+image: img/CipherDisk.jpg
 title: "Simple Caesar Cipher in Python"
 date: 2025
 published: true
