@@ -2,15 +2,59 @@
 layout: project
 type: project
 image: img/JambaJuice.jpg
-title: "Object Oriented Progrmming With Jamba Juice"
+title: "Object Oriented Programming With Jamba Juice"
 date: 2025
 published: true
 labels:
   - Typescript
   - GitHub
-summary: "A Typescript Project made during ICS 314 that showcases Classes and Constructor in the theme of TypeScript"
+summary: "A Typescript Project made during ICS 314 that showcases Classes and Constructor in the theme of Jamba Juice"
 ---
 
 <img src="/img/JambaJuiceMenu.jpg" alt="Jamba Juice Menu" width="300" height="300">
 
-[Jamba Juice TypeScript Here](https://tinyurl.com/2f6rhr6y)
+## About
+Jamba Juice is a quick service chain that serves healthy foods and beverages such as Smoothies, Acaí, and healthy foods.
+In this project assigned during ICS 314 I am create a menu with three beverages.
+These beverages contain a name, a list of ingredients, prices corresponding to a list of sizes, and calories corresponding to a list of sizes.
+The list of sizes in this code are as follows, small, medium, and large
+
+## Code
+Down below is the foundation of this project
+Within this class, I have four parameters with various datatypes
+All objects within the class are then availible for use via a constructor
+The describe function just prints all information regarding an menuItem to console
+
+<pre>
+
+```ts
+class MenuItem {
+  name: string;
+  ingredients: string[];
+  prices: Record<Size, number>;
+  calories: Record<Size, number>;
+
+  constructor (
+  name: string,
+  ingredients: string[],
+  prices: Record<Size, number>,
+  calories: Record<Size, number>,
+  ) {
+    this.name = name;
+    this.ingredients = ingredients;
+    this.prices = prices;
+    this.calories = calories;
+
+  }
+
+  describe(): void {
+    console.log(this.name, "constains: ", this.ingredients.join(", "));
+    console.log("Prices: ", this.prices);
+    console.log("Calories: ", this.calories);
+  }
+}
+```
+
+  </pre>
+
+[Jamba Juice TypeScript Here](https://tinyurl.com/yc84a74x)
