@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: ![Wind Chill Chart](img/WindChillChart.jpg)
 title: "Cotton"
 date: 2014
 published: true
