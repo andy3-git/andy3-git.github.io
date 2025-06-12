@@ -84,7 +84,7 @@ def shiftCipherDE3(decrypt, K):
 
 Here are some test cases to try out in Python
 
-```Python
+```python
 message1 = "Meet you in the par"
 message2 = "I am reading a book on the history of glue. I just can not seem to put it down"
 message3 = "I like ths class"
