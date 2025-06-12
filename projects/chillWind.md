@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Wind_chill.png?20061208192208
+image: <img src="img/wind_chill.png" alt="Wind Chill Chart" width="200">
 title: "Cotton"
 date: 2014
 published: true
