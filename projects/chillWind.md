@@ -11,7 +11,7 @@ labels:
 summary: "A Relatively simple project about thresholds of Hypothermia made during ICS 314 quiz."
 ---
 
-![Wind Chill Chart](/img/WindChillChart.jpg)
+<img src="/img/WindChillChart.jpg" alt="Wind Chill Chart" width="300" height="200">
 
 ## About
 
