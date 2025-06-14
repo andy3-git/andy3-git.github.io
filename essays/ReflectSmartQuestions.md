@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflecting Upon SMART Questions"
 # All dates must be YYYY-MM-DD format!
-date: 2025-13-10
+date: 2025-06-13
 published: true
 labels:
   -  StackOverflow
