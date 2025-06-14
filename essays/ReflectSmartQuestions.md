@@ -10,6 +10,9 @@ labels:
   -  SMART Questions
 ---
 
+<img src="/img/QuestionBook.png" alt="Book w/ Question Mark" width="200">
+
+
 ## Importance of SMART Questions and What Are They...
 
 S.M.A.R.T questions are important in Software Engineering and StackOverflow as they ensure clear communication which encourages constructive dialogue amongst others, 
