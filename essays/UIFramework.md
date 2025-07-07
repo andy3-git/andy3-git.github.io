@@ -11,7 +11,8 @@ labels:
 ---
 
 <img src="/img/RockstarCloneSite.png" alt="Clone Rockstar Website" width="400">
-## 
+
+##
 Clone Site made Using Bootstrap
 
 ## What is a UI Framework
