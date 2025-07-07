@@ -10,7 +10,8 @@ labels:
   -  Bootstrap
 ---
 
-<img src="/img/RockstarCloneSite.png" alt="Clone Rockstar Website" width="200">
+<img src="/img/RockstarCloneSite.png" alt="Clone Rockstar Website" width="400">
+Clone Site made Using BootStrap
 
 ## What is a UI Framework
 
