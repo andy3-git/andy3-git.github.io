@@ -29,7 +29,7 @@ The final reason is that UI Frameworks are accessible, where certain frameworks 
 A quick rundown of Bootstrap is that it is a UI Framework that contains pre-built components as well as a grid system, Bootstrap utilizes programming languages such as HTML, CSS, and Javascript. 
 Now during my time in ICS 314 - Software Engineering. I was tasked to ‘clone’ another website. 
 The condition of the website chosen was that the target was to contain a navbar, footer, several dropdown menus, and that the website was not chosen by another classmate at the time, etc. 
-although the links do not need to work. My website chosen was a [Rockstar Newswire](https://www.rockstargames.com/newswire/) as it completes all of these requirements and that I was a fan of them at the time.
+although the links do not need to work. My website chosen was a [Rockstar Newswire](https://www.rockstargames.com/newswire/) post as it completes all of these requirements and that I was a fan of them at the time.
 The implementation of certain basic elements such as the footer and navbar felt pretty simple as well as the background. 
 Acquiring the images for the clone site was as simple as screenshotting the actual images from the real website. 
 However, I had a hard time implementing the advanced stuff such as the navbar moving whilst scrolling, the animation of certain buttons and images when hovered over, and certain artforms that blended with the background. 
