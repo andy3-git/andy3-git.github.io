@@ -12,7 +12,7 @@ labels:
   -  Software Engineering
 ---
 
-<img src="/img/software-design.jpg" alt="Collage of Software Engineering Words" width="200">
+<img src="/img/software-design.jpg" alt="Collage of Software Engineering Words" width="400">
 
 ## The Definition of Design Patterns
 In any software development firm, design patterns are reusable solutions to problems that appear frequently.
