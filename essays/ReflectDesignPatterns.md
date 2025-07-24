@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflecting Upon SMART Questions"
+title: "The Practice of Design Patterns"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-23
 published: true
