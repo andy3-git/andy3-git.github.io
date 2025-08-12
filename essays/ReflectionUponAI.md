@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflecting Upon the Use of AI"
 # All dates must be YYYY-MM-DD format!
-date: 2025-07-23
+date: 2025-08-11
 published: true
 labels:
   -  Software Engineering
