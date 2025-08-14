@@ -57,5 +57,5 @@ Both of these topics play a role in the success of software development,
 Coding Standards for delivering a set of agreed rules that ensure quality whilst being easy to read and modify, 
 and User Interface Frameworks for having pre-built components that make setting up a User Interface much quicker than building from scratch.
 However they are small parts of a large machine, with the goal of building software that works well, lasts for a long time, and is understandable by both its users and developers. 
-Without these topics in play, development would be slow, riddled with unorganized code, and ultimately deliver a sub-optimal product that is hard to understand for both sides of the coin: developers and users.
+Without these topics in play, development would be slow, riddled with unorganized code, and ultimately deliver a sub-optimal product that is hard to understand for both sides of the coin: developers and users. Thank You For Reading - Andy Nguyen
 
